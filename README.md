@@ -6,7 +6,6 @@ I build scalable web applications and AI-driven systems that solve real problems
 Currently exploring the intersection of software engineering and machine learning.
 
 - 🎓 **IIIT Delhi** — B.Tech in Computer Science & AI
-- 🏆 Won the Student Senate election among 630 students in my first year
 - 💼 Open to internships, collaborations, and open-source contributions
 - 📬 Reach me at **itsmukul2005@gmail.com**
 
