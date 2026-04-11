@@ -79,32 +79,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mukulyadav525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulyadav525&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=mukulyadav525&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukulyadav525&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -122,6 +96,5 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=100&section=footer)
 
-*Thanks for stopping by — let's build something together.*
 
 </div>
