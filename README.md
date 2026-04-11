@@ -117,7 +117,6 @@
   </picture>
 </div>
 
-> ⚙️ To enable: create `.github/workflows/snake.yml` in this repo with the workflow from [Platane/snk](https://github.com/Platane/snk), then run it once from the Actions tab.
 
 ---
 
