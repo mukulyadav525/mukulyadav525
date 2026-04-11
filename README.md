@@ -93,8 +93,6 @@
 
 </div>
 
-> ⚠️ If stats don't load — fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy to your own Vercel, then replace the domain above.
-
 ---
 
 ## 📈 Activity Graph
