@@ -1,22 +1,29 @@
-# 👋 Mukul Yadav
+<div align="center">
 
-**B.Tech CS & AI @ IIIT Delhi** · Full-Stack Developer · AI Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mukul+Yadav+%F0%9F%91%8B;Full-Stack+Developer;AI+%2F+ML+Enthusiast;IIIT+Delhi+%7C+CS+%26+AI)](https://git.io/typing-svg)
 
-I build scalable web applications and AI-driven systems that solve real problems.  
-Currently exploring the intersection of software engineering and machine learning.
+![header](https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=header&text=&fontSize=0)
 
-- 🎓 **IIIT Delhi** — B.Tech in Computer Science & AI
-- 💼 Open to internships, collaborations, and open-source contributions
-- 📬 Reach me at **itsmukul2005@gmail.com**
+</div>
 
 ---
 
-## 🌐 Connect
+## 🧑‍💻 About Me
+
+- 🎓 **IIIT Delhi** — B.Tech in Computer Science & AI
+- 🏆 Won the Student Senate election among **630 students** in first year
+- 🚀 Passionate about building real-world tech that creates impact
+- 💼 Open to internships, collaborations, and open-source contributions
+- 📬 **itsmukul2005@gmail.com**
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukulyadav525)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mukul23_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukul_.23)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmukul2005@gmail.com)
+
+</div>
 
 ---
 
@@ -52,29 +59,72 @@ Currently exploring the intersection of software engineering and machine learnin
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace these with your real projects — this is the most important section -->
-
 ### [Project Name](https://github.com/mukulyadav525/repo)
-> One sentence: what does it do and why does it matter?  
+> One sentence: what it does and why it matters.  
 > `React` `Node.js` `MongoDB`
 
 ### [Project Name](https://github.com/mukulyadav525/repo)
-> One sentence: what problem does it solve?  
+> One sentence: what problem it solves.  
 > `Python` `PyTorch` `FastAPI`
+
+### [Project Name](https://github.com/mukulyadav525/repo)
+> One sentence: impact or scale.  
+> `Next.js` `AWS` `MySQL`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulyadav525&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mukulyadav525&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulyadav525&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mukulyadav525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulyadav525&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mukulyadav525&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> ⚠️ If stats don't load — fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy to your own Vercel, then replace the domain above.
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukulyadav525&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukulyadav525/mukulyadav525/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukulyadav525/mukulyadav525/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mukulyadav525/mukulyadav525/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚙️ To enable: create `.github/workflows/snake.yml` in this repo with the workflow from [Platane/snk](https://github.com/Platane/snk), then run it once from the Actions tab.
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=100&section=footer)
+
+*Thanks for stopping by — let's build something together.*
+
+</div>
